@@ -1,4 +1,4 @@
-import 'package:desgin_exam/component/Page_Three.dart';
+import 'package:desgin_exam/Views/Page_Two.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       //   useMaterial3: true,
       // ),
       debugShowCheckedModeBanner: false,
-      home: PageThree(),
+      home: PageTwo(),
     );
   }
 }
